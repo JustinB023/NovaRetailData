@@ -1,9 +1,0 @@
-File "/mount/src/novaretaildata/app.py", line 3, in <module>
-    os.makedirs(base, exist_ok=True)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
-File "<frozen os>", line 218, in makedirs
-File "<frozen os>", line 228, in makedirs
-
-
-File "/mount/src/novaretaildata/app.py", line 33, in <module>
-    from streamlit_plotly_events import plotly_events
